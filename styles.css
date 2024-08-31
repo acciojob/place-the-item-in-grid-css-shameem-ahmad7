@@ -1,2 +1,18 @@
-
+.holder{
+	display:grid;
+	grid-template-columns:200px 200px;
+	grid-template-rows:200px 200px;
+}
+.item-1{
+	background-color:blue;
+}
+.item-2{
+	background-color:yellow;
+}
+.item-3{
+	background-color:green;
+}
+.item-4{
+	background-color:red;
+}
 /* Your CSS Code here. */
